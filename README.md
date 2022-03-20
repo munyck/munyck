@@ -1,7 +1,7 @@
 ### 👋 Olá! Seja bem-vindo(a). 
 - 🙋‍♀️ Chamo-me Munyck Matias
 - 👩‍💻 Cursando Bacharel em Sistemas de Informação | Estácio
-- 💼 Atualmente trabalho como Técnico Administrativo Pleno N2, todavia estou aberta à novas oportunidades.
+- 💼 Atualmente estou a procura de oportunidades como Dev.
 - 📫 Contate-me através do LinkedIn: https://www.linkedin.com/in/munyckmatias/.
 
 ### 💻 Minhas atividades no GitHub:
